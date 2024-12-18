@@ -60,7 +60,7 @@ project_root/
 - Integrate real-world datasets to enhance model generalization.
 
 ## Contributors
-- [Your Name] - Project Lead and Developer
+- [Skanda K S] - Project Lead and Developer
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
